@@ -37,15 +37,47 @@
      *  only be called once.)
      */
     function draw() {
-    
-        graphics.clearRect(0,0,600,600);
-        
-        // TODO: insert code to draw the image for Exercise 1!
-        graphics.fillRect(100,100,200,100);
-        graphics.strokeRect(100,100,300,200);
-        graphics.fillText("hello",50,50);
-        graphics.fillOval()
-        
+
+        //rysowanie serca
+        graphics.beginPath();
+        graphics.moveTo(75,40);
+        graphics.bezierCurveTo(75,37,70,25,50,25);
+        graphics.bezierCurveTo(20,25,20,62.5,20,62.5);
+        graphics.bezierCurveTo(20,80,40,102,75,120);
+        graphics.bezierCurveTo(110,102,130,80,130,62.5);
+        graphics.bezierCurveTo(130,62.5,130,25,100,25);
+        graphics.bezierCurveTo(85,25,75,37,75,40);
+        graphics.fillStyle = 'red';
+        graphics.fill();
+
+        //usmiech
+        graphics.beginPath();
+        graphics.arc(75,60,35,Math.PI-1,Math.PI-2.2,true);
+        graphics.stroke();// buzia
+        graphics.moveTo(65,65);
+        graphics.arc(60,65,5,0,Math.PI*2,true);  // lewe oko
+        graphics.moveTo(95,65);
+        graphics.arc(90,65,5,0,Math.PI*2,true);  // prawe oko
+        graphics.fillStyle = 'white'
+        graphics.fill();
+
+        graphics.strokeCircle(59,64,2);
+        graphics.fillStyle = 'black'
+        graphics.fill();
+
+        graphics.strokeCircle(59,64,1);
+        graphics.fillStyle = 'white'
+        graphics.fill();
+
+        graphics.strokeCircle(89,64,2);
+        graphics.fillStyle = 'black'
+        graphics.fill();
+
+        graphics.strokeCircle(89,64,1);
+        graphics.fillStyle = 'white'
+        graphics.fill();
+
+
     } // end of draw()
     
     

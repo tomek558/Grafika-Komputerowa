@@ -5,8 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1641cb45-e5f5-4ade-a2ca-fcf2eba9c1b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/TransformedShapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D$Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/GK_lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/META-INF/GK_lab3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$CompoundObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$SceneGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$TransformedObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$CompoundObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$SceneGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$TransformedObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/SceneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/SubroutineHierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/Lab5/Lab5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/Lab5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/Lab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lib/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Lab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/PaintPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/TexturedShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/brick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/clouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/earth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/lab8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/lab9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/OrbitControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/brick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/clouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/earth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/horse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/paisley.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab3/SubroutineHierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/SubroutineHierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/SceneGraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/SceneGraph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +133,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -46,7 +151,13 @@
       <workItem from="1647197871863" duration="218000" />
       <workItem from="1647880476937" duration="3753000" />
       <workItem from="1648402543019" duration="74000" />
-      <workItem from="1654513886517" duration="727000" />
+      <workItem from="1654513886517" duration="918000" />
+      <workItem from="1654947307454" duration="88000" />
+      <workItem from="1654950534473" duration="213000" />
+      <workItem from="1654955265889" duration="134000" />
+      <workItem from="1654955490575" duration="139000" />
+      <workItem from="1654955949895" duration="44000" />
+      <workItem from="1656266182012" duration="155000" />
     </task>
     <servers />
   </component>

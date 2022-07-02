@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c934a46-0a0c-4002-ae59-be349cff4ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/TransformedShapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D$Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/Transforms2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/GK_lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/META-INF/GK_lab3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$CompoundObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$SceneGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph$TransformedObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SceneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/GK_lab3/SubroutineHierarchy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$CompoundObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$SceneGraphNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph$TransformedObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SceneGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/out/production/lab3/SubroutineHierarchy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/SceneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/SubroutineHierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab5/Lab5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/Lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/Lab6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lib/jogamp-fat-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Lab7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/PaintPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/TexturedShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/brick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/clouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/src/res/earth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/lab8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/lab9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/OrbitControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/brick.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/clouds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/earth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/horse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab8/resources/paisley.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/SceneGraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/SceneGraph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ATljOb0FzQHn4db9hcbiQzwyaD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/Lab5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab5" />
+      <module name="Lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c934a46-0a0c-4002-ae59-be349cff4ade" name="Changes" comment="" />
+      <created>1655041594665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655041594665</updated>
+      <workItem from="1655041598507" duration="419000" />
+      <workItem from="1655044220865" duration="6426000" />
+      <workItem from="1655063413203" duration="22000" />
+      <workItem from="1655064349812" duration="233000" />
+      <workItem from="1655113126771" duration="297000" />
+      <workItem from="1656266587133" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
